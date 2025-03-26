@@ -8,26 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alunos\\.nuget\\packages\\": {}
+    "C:\\Users\\npadr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\GitHub\\Tarefas_LPR\\Aula_5\\Tarefa1_C#\\Tarefa1_C#.csproj",
+      "projectUniqueName": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\GitHub\\Tarefas_LPR\\Aula_5\\Tarefa1_C#\\Tarefa1_C#.csproj",
       "projectName": "Tarefa1_C#",
-      "projectPath": "C:\\Users\\Alunos\\Documents\\GitHub\\Tarefas_LPR\\Aula_5\\Tarefa1_C#\\Tarefa1_C#.csproj",
-      "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Documents\\GitHub\\Tarefas_LPR\\Aula_5\\Tarefa1_C#\\obj\\",
+      "projectPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\GitHub\\Tarefas_LPR\\Aula_5\\Tarefa1_C#\\Tarefa1_C#.csproj",
+      "packagesPath": "C:\\Users\\npadr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\GitHub\\Tarefas_LPR\\Aula_5\\Tarefa1_C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\npadr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
