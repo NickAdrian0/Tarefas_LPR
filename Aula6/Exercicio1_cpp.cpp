@@ -3,11 +3,13 @@
 using namespace std;
 int num;
  
-int numReverse (int& number) {
-    int reversenum;
-    number = number % 10;
-    num = reversenum * 10 + number;
-    return reversenum;
+int numReverse(int& number) {
+    int reversenum = 0;
+    while (number > 0) {
+        int numlast = number % 10;
+        reversenum = reversenum * 10 + numlast;
+        number /= 10;
+    }  return reversenum;
 }
 
 int main () {
